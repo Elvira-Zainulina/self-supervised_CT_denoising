@@ -29,7 +29,7 @@ other self-supervised denoising algorithms.*
 
 The scheme of the proposed self-supervised method for denoising CT projections:
 <p align="center">
-<img src="img/N2NTD_scheme.png" alt | width=300>
+<img src="img/n2ntd_scheme.png" alt | width=200>
 
 The proposed approach was compared to the Noise2Clean, [Half2Half](https://pubmed.ncbi.nlm.nih.gov/32707565/) 
 and [Noise2Void-4R](https://papers.nips.cc/paper/2019/file/2119b8d43eafcf353e07d7cb5554170b-Paper.pdf) approaches 
